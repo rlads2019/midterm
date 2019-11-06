@@ -6,7 +6,7 @@
 
 ### 繳交方式
 
-請將寫好的 `index.Rmd` knit 成 HTML 後，將 **`index.html` 上傳至 NTU COOL 作業區：期中考** (17:15 後即無法上傳)。
+請將寫好的 `index.Rmd` knit 成 HTML 後，將 **`index.html` 上傳至 NTU COOL 作業區** (17:15 後即無法上傳)。
 
 ### 注意事項
 
